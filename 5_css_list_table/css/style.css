@@ -1,0 +1,54 @@
+body {
+    font-size: 1rem;
+}
+
+.list {
+    background-color: #292d7b;
+    width: 500px;
+    height: 220px;
+}
+
+h4 {
+    color: #d7752c;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+h5 {
+    color: #9497db;
+    font-size: 15px;
+}
+
+ul {
+    list-style-image: url('../img/shop.svg');
+    color: white;
+}
+
+table, td, th {  
+    border: 2px solid black;
+    text-align: left;
+  }
+  
+table {
+    border-collapse: collapse;
+    width: 2000px;
+}
+  
+th {
+    background-color: #292d7b;
+    color: white;
+}
+
+th, td {
+    padding: 10px;
+}
+
+.table {
+    font-size: 28px;
+    width: 400px;
+}
+
+td:hover {
+    color:#ddd;
+}
