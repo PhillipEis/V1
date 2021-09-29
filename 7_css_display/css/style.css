@@ -1,0 +1,150 @@
+body {
+    
+    color:#ddd
+}
+
+.container {
+    background-color: hsl(194, 100%, 31%);
+    max-width: 1000px;
+    padding: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    display: inline;
+    margin-right: 50px;
+    
+}
+
+a {
+    color: hsl(194, 100%, 50%);
+}
+
+.img {
+    display: block;
+    margin: auto;
+
+
+}
+
+/* tr:nth-child(odd) {
+    background-color: #ddd;
+  }
+
+tr:nth-child(even) {
+    background-color: #bbb;
+  }
+
+table, td, th {  
+    border: 2px solid white;
+    text-align: left;
+  }
+  
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+  
+th {
+    background-color: #292d7b;
+    color: white;
+}
+
+th, td {
+    padding: 10px;
+}
+
+td {
+    color: black;
+}
+
+th {
+    background-color: hsl(194, 100%, 31%);
+} */
+
+.green {
+    color: rgb(0, 78, 0);
+}
+
+#t2 .male {
+   display: none;
+}
+
+.t1 tbody tr {
+    border-bottom: thin solid #dddddd;
+}
+
+.t1 tbody tr:nth-of-type(even) {
+    background-color: #ddd;
+}
+.t1 tbody tr:nth-of-type(odd) {
+    background-color: #bbb;
+}
+
+.t1 tbody tr:last-of-type {
+    border-bottom: 2px solid #bbb;
+}
+
+.t1 th,
+.t1 td {
+    padding: 12px 15px;
+}
+
+.t1 thead tr {
+    background-color: #009879;
+    color: black;
+    text-align: left;
+}
+
+.t1 {
+    color: black;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border-radius: 5px 5px 5px 5px;
+    overflow: hidden;
+}
+
+
+
+#t2 tbody tr {
+    border-bottom: thin solid #dddddd;
+}
+
+#t2 tbody tr:nth-of-type(even) {
+    background-color: #ddd;
+}
+#t2 tbody tr:nth-of-type(odd) {
+    background-color: #ddd;
+}
+
+#t2 tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+#t2 th,
+#t2 td {
+    padding: 12px 15px;
+}
+
+#t2 thead tr {
+    background-color: #009879;
+    color: black;
+    text-align: left;
+}
+
+#t2 {
+    color: black;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border-radius: 5px 5px 5px 5px;
+    overflow: hidden;
+}
