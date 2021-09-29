@@ -1,0 +1,22 @@
+#main{
+    color: orange;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.question {   
+    font-weight: 900;
+    color:lightseagreen;
+    font-size: 18px;
+}
+
+.answer{
+    font-weight: 900;
+    color: lightslategray;
+    font-size: 18px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    font-weight: 900;
+}
