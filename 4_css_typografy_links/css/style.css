@@ -1,0 +1,49 @@
+
+@font-face {
+    font-family: Extralight;
+    src:url("../assets/FiraSans-ExtraLight.otf");
+}
+
+body {
+    font-size: 1.125rem;
+    line-height: 140%;
+    background-color: rgb(231, 231, 231);
+}
+
+.google {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+.custom {
+    font-family: Extralight;
+    font-size: 1.8rem; 
+    text-align: center;
+}
+.typography {
+    font-family: 'Old Standard TT', serif;
+    color: #5A5A5A;
+}
+.typography-text {
+    font-size: 2rem;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Old Standard TT', serif;
+    color: #5A5A5A;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+a:active {
+    text-decoration: none;
+    color: red;
+    background-color: black;
+  }
