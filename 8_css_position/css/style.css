@@ -1,0 +1,46 @@
+.one {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 6;
+}
+.two {
+
+    position: absolute;
+    top: 30px; 
+    left: 35px;
+    z-index: 5;
+}
+.three {
+
+    position: absolute;
+    top: 60px; 
+    left: 70px;
+    z-index: 4;
+}
+
+.four {
+
+    position: absolute;
+    top: 90px; 
+    left: 100px;
+    z-index: 3;
+}
+
+.fifth {
+
+    position: absolute;
+    top: 110px; 
+    left: 130px;
+    z-index: 2;
+}
+
+h4 {
+    position: absolute;
+    top: 110px;
+    font-size: 60px;
+    color: purple; 
+    background-color: hsla(39, 100%, 50%, 0.7);
+    left: 50px;
+    z-index: 7;
+}
